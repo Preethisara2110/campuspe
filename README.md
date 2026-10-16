@@ -14,7 +14,7 @@ A responsive CampusPe landing page built with Next.js 14, React, and CSS, based 
 - Hover, focus, active, and reduced-motion states
 
 ## Run locally
-Requires Node.js 18.17 or later.
+Requires Node.js 18.17 or later...
 
 ```bash
 npm install
